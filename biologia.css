@@ -45,7 +45,7 @@ nav li a:hover{
     --preto: #000000;
     --marinho: #B2A5FF;
     --amarelo-claro:rgb(240, 218, 205);
-    --roxo-claro:rgb(240, 218, 205);
+    --roxo-claro:#B2A5FF;
     --verde: rgb(240, 218, 205);
     --azul-claro: pink;
     --branco: rgb(224, 70, 96);
@@ -83,7 +83,7 @@ header {
     background-color: var(--preto);
     border: none;
     padding: 1.05rem 1.5rem;
-    color: var(--amarelo-claro);
+    color: var(--roxo-claro);
 }
 
 #menu-toggle {
