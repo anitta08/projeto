@@ -43,12 +43,12 @@ nav li a:hover{
 
 :root{
     --preto: #000000;
-    --marinho: #333;
-    --amarelo-claro:white;
+    --marinho: #B2A5FF;
+    --amarelo-claro:rgb(240, 218, 205);
     --roxo-claro:#B2A5FF;
-    --verde: black;
-    --azul-claro: darkgrey;
-    --branco: #FFFFFF;
+    --verde: rgb(240, 218, 205);
+    --azul-claro: pink;
+    --branco: rgb(224, 70, 96);
     --marron-claro: #FAF1E6;
 }
 
